@@ -1,0 +1,17 @@
+.progress,
+.btn-wrapper {
+	max-width: 50%;
+	margin: 0 auto;
+	margin-top: 100px;
+
+}
+.btn-wrapper {
+	display: flex;
+	justify-content: space-around;
+}
+.btn {
+	padding: 10px 75px;
+	margin: 0 15px;
+
+
+}
